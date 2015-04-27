@@ -1,9 +1,8 @@
 
-# General research media
-
-    - Images from NASA: https://www.nasa.gov/apollo11-gallery
-    - Audio from NASA: https://www.nasa.gov/content/apollo-11-audio-highlights
-    - Video from NASA: https://www.nasa.gov/multimedia/hd/apollo11_hdpage.html
+### General research media
+- Images from NASA: https://www.nasa.gov/apollo11-gallery
+- Audio from NASA: https://www.nasa.gov/content/apollo-11-audio-highlights
+- Video from NASA: https://www.nasa.gov/multimedia/hd/apollo11_hdpage.html
 
 ### Apollo 11 landing site images
 
