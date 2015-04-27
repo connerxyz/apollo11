@@ -23,7 +23,8 @@
 
 ### Surface images
 
-[360 panorama](http://www.panoramas.dk/moon/apollo-11.html)
+#### Interactive 360 panorama
+[Link](http://www.panoramas.dk/moon/apollo-11.html)
 
 ![surface](http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Aldrin_with_experiment.jpg/1280px-Aldrin_with_experiment.jpg)
 
