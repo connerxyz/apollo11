@@ -7,7 +7,7 @@
 - Audio from NASA: https://www.nasa.gov/content/apollo-11-audio-highlights
 - Video from NASA: https://www.nasa.gov/multimedia/hd/apollo11_hdpage.html
 
-### Apollo 11 landing site images
+### Apollo 11 aerial landing site images
 
 [Apollo 11 revisted LROC](http://www.nasa.gov/mission_pages/LRO/news/apollo-11.html)
 
@@ -20,4 +20,10 @@
 [LRO gets additional look at Apollo 11 landing site](https://www.nasa.gov/mission_pages/LRO/multimedia/lroimages/lroc_200911109_apollo11.html#.VT5cdK1Viko)
 
 ![c](https://www.nasa.gov/sites/default/files/images/400201main1_lroc_apollo11_20091109_540.jpg)
+
+### Surface images
+
+[360 panorama](http://www.panoramas.dk/moon/apollo-11.html)
+
+![surface](http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Aldrin_with_experiment.jpg/1280px-Aldrin_with_experiment.jpg)
 
