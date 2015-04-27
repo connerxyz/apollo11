@@ -25,8 +25,12 @@
 
 ### Surface images
 
-#### Interactive 360 panorama
-[Link](http://www.panoramas.dk/moon/apollo-11.html)
+##### [Interactive 360 panorama](http://www.panoramas.dk/moon/apollo-11.html)
 
+##### Near seismometer
 ![surface](http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Aldrin_with_experiment.jpg/1280px-Aldrin_with_experiment.jpg)
+
+#### Near Little West
+
+![littleWest](http://www.lpi.usra.edu/resources/apollopanoramas/images/print/original/JSC2008e040725.jpg)
 
