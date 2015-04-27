@@ -1,13 +1,13 @@
+### General research media
+- Images from NASA: https://www.nasa.gov/apollo11-gallery
+- Audio from NASA: https://www.nasa.gov/content/apollo-11-audio-highlights
+- Video from NASA: https://www.nasa.gov/multimedia/hd/apollo11_hdpage.html
+
 ### NASA's 3D imaging of landing site using LRO data:
 
 [Link to video](http://commons.wikimedia.org/w/index.php?title=File%3AA_New_Look_at_the_Apollo_11_Landing_Site.ogg)
 
 ![ScreenShot](screenShotFrom3DImagingVideo.png)
-
-### General research media
-- Images from NASA: https://www.nasa.gov/apollo11-gallery
-- Audio from NASA: https://www.nasa.gov/content/apollo-11-audio-highlights
-- Video from NASA: https://www.nasa.gov/multimedia/hd/apollo11_hdpage.html
 
 ### Apollo 11 aerial landing site images
 
@@ -25,12 +25,16 @@
 
 ### Surface images
 
-##### [Interactive 360 panorama](http://www.panoramas.dk/moon/apollo-11.html)
+#### [Interactive 360 panorama](http://www.panoramas.dk/moon/apollo-11.html)
 
-##### Near seismometer
+#### Near seismometer
 ![surface](http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Aldrin_with_experiment.jpg/1280px-Aldrin_with_experiment.jpg)
 
 #### Near Little West
 
 ![littleWest](http://www.lpi.usra.edu/resources/apollopanoramas/images/print/original/JSC2008e040725.jpg)
+
+#### Lunar lander panorama
+
+![lunarLanderPan](http://www.lpi.usra.edu/resources/apollopanoramas/images/preview/original/JSC2007e045375.jpg)
 
