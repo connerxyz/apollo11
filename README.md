@@ -26,7 +26,8 @@ Unreal comes with a bunch of content to play with.  Following the instructions b
 
 #### Content Examples
 
-You should also know about content examples.  They are intended to be a way to learn about Unreal through examples -- it's one big Unreal project where each level demonstrates certain Unreal concepts.  
+You should also know about content examples.  They are intended to be a way to learn about Unreal through examples -- it's one big Unreal project where each level demonstrates certain Unreal concepts.
+
 1. You can download content examples in the "Marketplace" tab on the left side of the Epic Games Launcher 
 2. Once they are downloaded, you can go to the "Library" tab of the Epic Games Launcher, and under "Vault" at the bottom, click "Create Project" under "Content Examples"
 3. Launch the project go to "File" and select a level that is titled with a concept you are interested in exploring
